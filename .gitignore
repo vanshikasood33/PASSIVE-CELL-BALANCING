@@ -1,0 +1,9 @@
+*.asv
+*.mdl.*
+*.slxc
+*.slx.autosave
+*.mex*
+.DS_Store
+*.bak
+*.log
+
